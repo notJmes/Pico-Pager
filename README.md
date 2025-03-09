@@ -4,7 +4,7 @@ This simple device receives text messages from your Telegram bot and displays it
 
 ## Introduction
 
-This mini project was made in the midsts of tinkering with the Raspberry Pico 2W and the ST7789 LED display. I used Jordi Prats's [utelegram library](https://github.com/jordiprats/micropython-utelegram) and a [ST7789 library](https://github.com/russhughes/st7789_mpy) from Russhughes.
+This mini project was made in the midsts of tinkering with the Raspberry Pico 2W and the ST7789 LED display. I used Jordi Prats's [utelegram library](https://github.com/jordiprats/micropython-utelegram) and a [ST7789 library](https://github.com/russhughes/st7789_mpy) from Russhughes. 
 
 ## Parts and Pinout
 
@@ -34,7 +34,8 @@ SSID = 'WIFI NAME'
 PASSWORD = 'WIFI PASSWORD'
 GMT = 8
 ```
-
+Messages should display on the SPI screen showing the time and sender:
+![Pico Pager Message](img/no_msg.jpg)
 ## Limitations
 
 1. Cannot display images/videos
