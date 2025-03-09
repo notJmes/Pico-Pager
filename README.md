@@ -1,6 +1,6 @@
 # The Pico Pager
-This simple device receives text messages from your Telegram bot and displays it on an SPI display.
 ![Pico Pager](img/no_msg.jpg)
+This simple device receives text messages from your Telegram bot and displays it on an SPI display.
 
 ## Introduction
 
