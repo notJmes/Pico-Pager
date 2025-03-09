@@ -35,7 +35,7 @@ PASSWORD = 'WIFI PASSWORD'
 GMT = 8
 ```
 Messages should display on the SPI screen showing the time and sender:
-![Pico Pager Message](img/no_msg.jpg)
+![Pico Pager Message](img/msg.jpg)
 ## Limitations
 
 1. Cannot display images/videos
